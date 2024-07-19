@@ -27,3 +27,15 @@ print(type([1,2,3]))    #list
 print(type({'name':'abase'})) #Dictionary
 print(type({9.0, 2.3, 3.2}))  #set
 print(type((9.0, 'David', 14))) #tuple
+
+#Exercise 1
+
+print("David")
+print("Ramírez")
+print("Colombia")
+
+#Exercise 2
+
+print(type(10))
+print(type(['Asabeneh', 'Python', 'Finlandia']))
+print(type("David"))
